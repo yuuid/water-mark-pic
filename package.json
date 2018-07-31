@@ -1,0 +1,14 @@
+{
+  "name": "water-mark-pic",
+  "version": "1.1.0",
+  "description": "a plugin for image to make watermark",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "watermark"
+  ],
+  "author": "maquan.codvision cxj",
+  "license": "ISC"
+}
